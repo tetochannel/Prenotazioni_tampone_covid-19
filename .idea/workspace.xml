@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8fd012-837b-4384-ac48-b95e498d16c7" name="Default Changelist" comment="First commit" />
-    <list id="dcab3e48-0ba4-441e-a167-7198537d71b5" name="Revert &quot;Primo commit&quot;" comment="Revert &quot;Primo commit&quot;&#10;&#10;This reverts commit 52957676">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prenotazioni_tampone_covid-19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prenotazioni.php" beforeDir="false" />
-    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +21,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -45,6 +40,7 @@
       <updated>1615023903971</updated>
       <workItem from="1615023905545" duration="1381000" />
       <workItem from="1615025313459" duration="28000" />
+      <workItem from="1615025342997" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1615024140903</created>
@@ -74,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615025203602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Secondo commit">
+      <created>1615025387183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615025387184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Primo commit">
+      <created>1615025582993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615025582993</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +108,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="First commit" />
+    <MESSAGE value="Secondo commit" />
     <MESSAGE value="Primo commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Primo commit" />
   </component>
