@@ -42,3 +42,7 @@ $stmt->execute(
 // fare una copia distinta nella root del server (che in questo caso è sempre appunto locale C:/xampp/htdocs;
 // Nella realtà sarebbe ovviamente sul server). In questo esempio, con questi strumenti e queste configurazioni,
 // bisognerà fare il deployment ogni volta per poter applicare delle modifiche fatte su questo file
+// Per configurare questo processo basta andare in Tools/Deployment/Configuration
+
+
+//Simulazione richieste post: Tools/Http Client/Test RESTful Web Service
