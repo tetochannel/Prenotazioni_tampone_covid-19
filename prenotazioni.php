@@ -13,8 +13,8 @@ $dbname = 'prenotazioni_tampone_covid-19';
 $user = 'root';
 $password = '';
 
-$codice_fiscale = 'prova';
-$giorno = '2021-06-03';
+$codice_fiscale = $_POST['cf'];
+$giorno = $_POST['day:'];
 
 $dsn = 'mysql:host='.$host.';dbname='.$dbname;
 
