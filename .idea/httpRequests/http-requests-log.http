@@ -1,0 +1,9 @@
+POST http://localhost:80/Prenotazioni_tampone_Covid-19/prenotazioni.php
+Content-Type: application/x-www-form-urlencoded
+
+cf=prova&day=2021-03-06
+
+<> 2021-03-06T125009.200.html
+
+###
+
