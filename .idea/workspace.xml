@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc8fd012-837b-4384-ac48-b95e498d16c7" name="Default Changelist" comment="First commit" />
+    <list default="true" id="cc8fd012-837b-4384-ac48-b95e498d16c7" name="Default Changelist" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prenotazioni.php" beforeDir="false" afterPath="$PROJECT_DIR$/prenotazioni.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,13 +25,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="prenotazioni.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/prenotazioni.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.prenotazioni.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +53,7 @@
       <updated>1615023903971</updated>
       <workItem from="1615023905545" duration="1381000" />
       <workItem from="1615025313459" duration="28000" />
-      <workItem from="1615025342997" duration="317000" />
+      <workItem from="1615025342997" duration="4697000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1615024140903</created>
@@ -84,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615025582993</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Terzo commit">
+      <created>1615025806988</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615025806988</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +130,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Secondo commit" />
     <MESSAGE value="Primo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primo commit" />
+    <MESSAGE value="Terzo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terzo commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
