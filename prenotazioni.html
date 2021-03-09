@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prenotazioni tampone Covid-19</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
+</head>
+<body>
+    <form action="prenotazioni.php" method="post">
+        <fieldset>
+            <legend>Inserisci le tue informazioni per prendere un appuntamento</legend>
+            <label for="codice_fiscale">Username</label>
+            <input type="text" id="codice_fiscale" placeholder="es. RSSFLV95C12H118C" name="codice_fiscale"/>
+            <label for="data">Data</label>
+            <input type="text" id="data" placeholder="es. <>" name="giorno"/>
+            <input type="submit" value="Invia richiesta">
+        </fieldset>
+    </form>
+    <script>
+        document.getElementById("data").placeholder = Date().getFullYear() +
+            "-" + Date().getMonth() + "-" + Date().getDay()
+    </script>
+</body>
+</html>
