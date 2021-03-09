@@ -17,8 +17,8 @@
         </fieldset>
     </form>
     <script>
-        document.getElementById("data").placeholder = Date().getFullYear() +
-            "-" + Date().getMonth() + "-" + Date().getDay()
+        document.getElementById("data").placeholder = new Date().getFullYear() +
+            "-" + new Date().getMonth() + 1 + "-" + new Date().getDate()
     </script>
 </body>
 </html>
