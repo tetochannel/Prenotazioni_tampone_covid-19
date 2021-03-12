@@ -12,13 +12,9 @@
             <label for="codice_fiscale">Username</label>
             <input type="text" id="codice_fiscale" placeholder="es. RSSFLV95C12H118C" name="codice_fiscale"/>
             <label for="data">Data</label>
-            <input type="text" id="data" placeholder="es. <>" name="giorno"/>
+            <input type="text" id="data" placeholder="es. 2021-03-01" name="giorno"/>
             <input type="submit" value="Invia richiesta">
         </fieldset>
     </form>
-    <script>
-        document.getElementById("data").placeholder = new Date().getFullYear() +
-            "-" + new Date().getMonth() + 1 + "-" + new Date().getDate()
-    </script>
 </body>
 </html>
